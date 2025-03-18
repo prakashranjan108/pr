@@ -1,0 +1,5 @@
+outs:
+- md5: cf2caa35e3aa34a8e9a1e2e359d864ee
+  size: 2960323
+  hash: md5
+  path: SolarPrediction.csv
